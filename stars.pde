@@ -1,5 +1,3 @@
-//https://marketplace.visualstudio.com/items?itemName=Tobiah.language-pde
-//CTRL + SHFT + B to run
 class Vector{
   float x;
   float y;
